@@ -1,0 +1,6 @@
+{
+  "name": "Bussin Cat Meme Wiki",
+  "description": "A lightweight and stylish wiki page dedicated to the Bussin Cat internet meme, featuring origins, meanings, a visual gallery, and related cat memes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
